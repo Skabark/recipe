@@ -24,7 +24,7 @@ line 2 changed remotely
 5. empty dishwasher
 6. cook dinner
 
-![image of tea](/recipe/recipe.jpeg)
+![image of tea](recipe.jpeg)
 
 
 last line changed locally
