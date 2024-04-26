@@ -24,5 +24,7 @@ line 2 changed remotely
 5. empty dishwasher
 6. cook dinner
 
+![image of tea](/recipe)
+
 last line changed locally
 ### This is a REMOTE change :O
