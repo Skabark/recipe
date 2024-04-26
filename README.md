@@ -7,7 +7,7 @@
 
 line 2 changed remotely
 
-Grocery list:
+**Grocery list:**
 - apples
 - bananas
 - oranges
@@ -16,7 +16,7 @@ Grocery list:
 - bread
 - butter
 
-Chore list:
+*Chore list:*
 1. broom/vacuum
 2. mop
 3. laundry
